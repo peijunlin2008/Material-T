@@ -25,14 +25,13 @@
 
 <p align="center">
   <span>文档：</span>
-  <a href="https://hexo.fluid-dev.com/docs/guide/">主题配置</a> | 
+  <a href="https://fluid.ist/docs/guide/">主题配置</a> | 
   <a href="https://hexo.io/zh-cn/docs/front-matter">文章配置</a>
 </p>
 
 <p align="center">
   <span>预览：</span>
-  <a href="https://hexo.fluid-dev.com/">Fluid's blog</a> | 
-  <a href="https://zkqiang.cn">zkqiang's blog</a>
+  <a href="https://fluid.ist/">Fluid's blog</a>
 </p>
 
 ## 快速开始
@@ -90,11 +89,11 @@ layout: about
 
 ## 更新主题
 
-更新主题的方式[参照这里](https://hexo.fluid-dev.com/docs/start/#更新主题)。
+更新主题的方式[参照这里](https://fluid.ist/docs/start/#更新主题)。
 
 ## 功能特性
 
-- [x] 无比详实的[用户文档](https://hexo.fluid-dev.com/docs/)
+- [x] 无比详实的[用户文档](https://fluid.ist/docs/)
 - [x] 页面组件懒加载
 - [x] 多种代码高亮方案
 - [x] 多语言配置
@@ -106,21 +105,6 @@ layout: about
 - [x] 支持 LaTeX 数学公式
 - [x] 支持 mermaid 流程图
 
-## 鸣谢
-
-<table>
-  <thead>
-    <tr>
-      <th align="center" style="width: 240px;">
-        <a href="https://www.jetbrains.com/?from=hexo-theme-fluid">
-          <img src="https://raw.githubusercontent.com/fluid-dev/static/690616966f34a58d66aa15ac7b550dd7bbc03967/hexo-theme-fluid/jetbrains.svg" width="100%" height="200px" style="object-fit: contain;"><br>
-          <sub>开发工具提供方 JetBrains</sub><br>
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
-
 ## 贡献者
 
 [![contributors](https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false)](https://github.com/fluid-dev/hexo-theme-fluid/graphs/contributors)
@@ -129,7 +113,7 @@ layout: about
 
 其他贡献：[@zhugaoqi](https://github.com/zhugaoqi) [@julydate](https://github.com/julydate) [@xiyuvi](https://xiyu.pro/)
 
-如你也想贡献代码，可参照[贡献指南](https://hexo.fluid-dev.com/docs/contribute/)
+如你也想贡献代码，可参照[贡献指南](https://fluid.ist/docs/contribute/)
 
 ## 支持我们
 

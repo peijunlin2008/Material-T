@@ -3,10 +3,10 @@
 # Author: Fluid-dev
 # Github: https://github.com/fluid-dev/hexo-theme-fluid
 #
-# 配置指南: https://hexo.fluid-dev.com/docs/guide/
+# 配置指南: https://fluid.ist/docs/guide/
 # 你可以从指南中获得更详细的说明
 #
-# Guide: https://hexo.fluid-dev.com/docs/en/guide/
+# Guide: https://fluid.ist/docs/en/guide/
 # You can get more detailed help from the guide
 #---------------------------
 
@@ -347,8 +347,8 @@ lazyload:
   # The factor of viewport height that triggers loading
   offset_factor: 2
 
-# 图标库，包含了大量社交类图标，主题依赖的不包含在内，因此可自行修改，详见 https://hexo.fluid-dev.com/docs/icon/
-# Icon library, which includes many social icons, does not include those theme dependent, so your can modify link by yourself. See: https://hexo.fluid-dev.com/docs/en/icon/
+# 图标库，包含了大量社交类图标，主题依赖的不包含在内，因此可自行修改，详见 https://fluid.ist/docs/icon/
+# Icon library, which includes many social icons, does not include those theme dependent, so your can modify link by yourself. See: https://fluid.ist/docs/en/icon/
 iconfont: //at.alicdn.com/t/c/font_1736178_k526ubmyhba.css
 
 
@@ -737,8 +737,8 @@ post:
     # The section title of the footnote, you can also modify the header of a single page in the form of `footnote: <h2>Reference</h2>` in front-matter
     header: ''
 
-  # 数学公式，开启之前需要更换 Markdown 渲染器，否则复杂公式会有兼容问题，具体请见：https://hexo.fluid-dev.com/docs/guide/##latex-数学公式
-  # Mathematical formula. If enable, you need to change the Markdown renderer, see: https://hexo.fluid-dev.com/docs/en/guide/#math
+  # 数学公式，开启之前需要更换 Markdown 渲染器，否则复杂公式会有兼容问题，具体请见：https://fluid.ist/docs/guide/##latex-数学公式
+  # Mathematical formula. If enable, you need to change the Markdown renderer, see: https://fluid.ist/docs/en/guide/#math
   math:
     # 开启后文章默认可用，自定义页面如需使用，需在 Front-matter 中指定 `math: true`
     # If you want to use math on the custom page, you need to set `math: true` in Front-matter
@@ -751,8 +751,8 @@ post:
     # Options: mathjax | katex
     engine: mathjax
 
-  # 流程图，基于 mermaid-js，具体请见：https://hexo.fluid-dev.com/docs/guide/#mermaid-流程图
-  # Flow chart, based on mermaid-js, see: https://hexo.fluid-dev.com/docs/en/guide/#mermaid
+  # 流程图，基于 mermaid-js，具体请见：https://fluid.ist/docs/guide/#mermaid-流程图
+  # Flow chart, based on mermaid-js, see: https://fluid.ist/docs/en/guide/#mermaid
   mermaid:
     # 开启后文章默认可用，自定义页面如需使用，需在 Front-matter 中指定 `mermaid: true`
     # If you want to use mermaid on the custom page, you need to set `mermaid: true` in Front-matter
@@ -1007,8 +1007,8 @@ about:
   avatar: /img/avatar.png
   name: "Fluid"
   intro: "An elegant theme for Hexo"
-  # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
-  # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
+  # 更多图标可从 https://fluid.ist/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
+  # More icons can be found from https://fluid.ist/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
     - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
@@ -1057,13 +1057,13 @@ links:
     - {
       title: "Fluid Blog",
       intro: "主题博客",
-      link: "https://hexo.fluid-dev.com/",
+      link: "https://fluid.ist/",
       avatar: "/img/favicon.png"
     }
     - {
       title: "Fluid Docs",
       intro: "主题使用指南",
-      link: "https://hexo.fluid-dev.com/docs/",
+      link: "https://fluid.ist/docs/",
       avatar: "/img/favicon.png"
     }
     - {
@@ -1081,7 +1081,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: false
-    content: '<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：Fluid</li><li>简介：Fluid 主题官方博客</li><li>链接：https://hexo.fluid-dev.com</li><li>图片：https://hexo.fluid-dev.com/img/favicon.png</li></ul>'
+    content: '<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：Fluid</li><li>简介：Fluid 主题官方博客</li><li>链接：https://fluid.ist</li><li>图片：https://fluid.ist/img/favicon.png</li></ul>'
 
   # 评论插件
   # Comment plugin

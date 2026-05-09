@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 #### 如是功能需求，请确定符合以下情况
-- [ ] 难以通过[自定义](https://hexo.fluid-dev.com/docs/guide/#自定义-js-css-html)实现
+- [ ] 难以通过[自定义](https://fluid.ist/docs/guide/#自定义-js-css-html)实现
 - [ ] 难以通过第三方插件实现
 
 #### 请描述该需求尝试解决的问题

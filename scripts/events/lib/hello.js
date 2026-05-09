@@ -17,7 +17,7 @@ module.exports = (hexo) => {
 |    |_____|   [___]'.__.'_/[___]'.__.;__]     |
 |                                              |
 |             感谢使用 Fluid 主题              |
-|    文档: https://hexo.fluid-dev.com/docs/    |
+|        文档: https://fluid.ist/docs/        |
 |                                              |
 ------------------------------------------------
 `);
@@ -33,7 +33,7 @@ module.exports = (hexo) => {
 |    |_____|   [___]'.__.'_/[___]'.__.;__]     |
 |                                              |
 |       Thank you for using Fluid theme        |
-|   Docs: https://hexo.fluid-dev.com/docs/en/  |
+|       Docs: https://fluid.ist/docs/en/      |
 |                                              |
 ------------------------------------------------
 `);

@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 #### Make sure
-- [ ] Difficult to implemented through [custom](https://hexo.fluid-dev.com/docs/en/guide/#custom-js-css-html).
+- [ ] Difficult to implemented through [custom](https://fluid.ist/docs/en/guide/#custom-js-css-html).
 - [ ] Difficult to implemented through third-party plugins.
 
 #### Is your feature request related to a problem? Please describe

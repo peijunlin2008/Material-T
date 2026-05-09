@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/fluid-dev/hexo-theme-fluid/issues"
   },
-  "homepage": "https://hexo.fluid-dev.com/docs",
+  "homepage": "https://fluid.ist/docs",
   "engines": {
     "node": ">=8.10.0"
   },

@@ -24,14 +24,13 @@
 
 <p align="center">
   <span>Docs: </span>
-  <a href="https://hexo.fluid-dev.com/docs/en/guide/">Theme guide</a>&nbsp&nbsp&nbsp&nbsp
+  <a href="https://fluid.ist/docs/en/guide/">Theme guide</a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://hexo.io/docs/front-matter">Post guide</a>
 </p>
 
 <p align="center">
   <span>Preview: </span>
-  <a href="https://hexo.fluid-dev.com/">Fluid's blog</a> | 
-  <a href="https://zkqiang.cn">zkqiang's blog</a>
+  <a href="https://fluid.ist/">Fluid's blog</a>
 </p>
 
 ## Quick Start
@@ -87,11 +86,11 @@ About content
 
 ## How to Upgrade
 
-[Please follow here](https://hexo.fluid-dev.com/docs/en/start/#theme-upgrade)
+[Please follow here](https://fluid.ist/docs/en/start/#theme-upgrade)
 
 ## Features
 
-- [x] Detailed [documents](https://hexo.fluid-dev.com/docs/en/)
+- [x] Detailed [documents](https://fluid.ist/docs/en/)
 - [x] Widget lazyload
 - [x] Multiple code highlighting schemes
 - [x] Multiple comment plugins
@@ -102,21 +101,6 @@ About content
 - [x] Support for LaTeX
 - [x] Support for Mermaid
 - [x] Dark mode
-
-## Thanks
-
-<table>
-  <thead>
-    <tr>
-      <th align="center" style="width: 240px;">
-        <a href="https://www.jetbrains.com/?from=hexo-theme-fluid">
-          <img src="https://raw.githubusercontent.com/fluid-dev/static/690616966f34a58d66aa15ac7b550dd7bbc03967/hexo-theme-fluid/jetbrains.svg" width="100%" height="200px" style="object-fit: contain;"><br>
-          <sub>Powered by JetBrains</sub><br>
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
 
 ## Contributors
 
